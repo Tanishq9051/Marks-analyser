@@ -205,6 +205,26 @@ Screenshots demonstrating the V5 application are available in the screenshots fo
 
 They show the graphical interface, student management, examination history, analysis and visualization features.
 
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](screenshots/Dashboard.PNG)
+
+### Exam History
+![Exam History](screenshots/Exam_history.PNG)
+
+### Analysis
+![Performance Analysis](screenshots/Analysis.PNG)
+
+### Actions
+![Application Actions](screenshots/Actions.PNG)
+
+### Exam Performance
+![Exam Performance Graph](screenshots/Exam_peformance.PNG)
+
+### Subject Performance
+![Subject Performance Graph](screenshots/Subject_peformance.PNG)
+
 ## Learning Outcomes
 
 Through this project I learned:
