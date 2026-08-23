@@ -54,10 +54,6 @@ Marks_Analyser/
 └── screenshots/
 ```
 
-### Performance Graph
-
-![Performance Graph](screenshots/Exam_performance.png)
-
 ## Installation
 
 Install the required package:
