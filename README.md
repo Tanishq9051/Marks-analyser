@@ -54,20 +54,6 @@ Marks_Analyser/
 └── screenshots/
 ```
 
-## Screenshots
-
-### Dashboard
-
-![Dashboard](screenshots/Dashboard.png)
-
-### Exam History
-
-![Exam History](screenshots/Exam_history.png)
-
-### Performance Analysis
-
-![Analysis](screenshots/Analysis.png)
-
 ### Performance Graph
 
 ![Performance Graph](screenshots/Exam_performance.png)
