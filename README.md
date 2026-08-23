@@ -2,6 +2,11 @@
 
 A desktop application built in Python to manage student marks, analyse academic performance, generate reports, and visualize progress using graphs.
 
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![SQLite](https://img.shields.io/badge/Database-SQLite-green)
+![Tkinter](https://img.shields.io/badge/GUI-Tkinter-orange)
+![Matplotlib](https://img.shields.io/badge/Graphs-Matplotlib-red)
+
 ## Overview
 
 Marks Analyser V5 is the final version of a project that evolved from a simple percentage calculator into a complete student performance management system. It stores data in SQLite, provides a graphical interface with Tkinter, and creates visual insights using Matplotlib.
